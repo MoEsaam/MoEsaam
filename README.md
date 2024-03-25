@@ -26,6 +26,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Microsoft-SQL-Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoEsaam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=MoEsaam&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MoEsaam&style=for-the-badge">
+</a>
 <!--
 **MoEsaam/MoEsaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
