@@ -12,7 +12,7 @@
 
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/mohamed-essam-57b57b220/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Essam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+<!--
 ### 🛠 &nbsp;Tooling
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Avr](https://img.shields.io/badge/-Avr%20-05122A?style=flat&logo=Avr)&nbsp;
@@ -26,10 +26,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Microsoft-SQL-Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
-
+-->
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoEsaam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
-<!--
+
 <br>
 <a href="https://komarev.com/ghpvc/?username=MoEsaam&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MoEsaam&style=for-the-badge">
