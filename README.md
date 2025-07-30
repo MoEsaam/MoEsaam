@@ -7,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Will%20not%20leave%20untill%20achieve&font=Fira%20Code&center=true&width=440&height=45&color=FFFF00&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Embedded Software Engineer
-- 👨‍💻 Computer & Systems Engineering Student At Helwan University 
+- 🏢 I'm an AI Engineer
+- 👨‍💻 Fresh Graduate
 
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/mohamed-essam-57b57b220/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Essam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
